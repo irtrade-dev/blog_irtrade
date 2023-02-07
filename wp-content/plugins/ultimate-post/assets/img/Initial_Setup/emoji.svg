@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65.691" height="65.691" viewBox="0 0 65.691 65.691">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientTransform="translate(0)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffd112"/>
+      <stop offset="0.339" stop-color="#ffcb0e"/>
+      <stop offset="0.79" stop-color="#ffba05"/>
+      <stop offset="1" stop-color="#ffb000"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_3314" data-name="Group 3314" transform="translate(-1421.496 -669.177)">
+    <circle id="Ellipse_2235" data-name="Ellipse 2235" cx="32.846" cy="32.846" r="32.846" transform="translate(1421.496 669.177)" fill="url(#radial-gradient)"/>
+    <g id="Group_3312" data-name="Group 3312" transform="translate(1434.947 687.656)">
+      <g id="Group_3310" data-name="Group 3310">
+        <path id="Path_2022" data-name="Path 2022" d="M1461.39,729.019a1.764,1.764,0,0,1-1.506-2.68c.115-.189,2.861-4.627,7.121-4.773,2.682-.1,5.187,1.48,7.441,4.672a1.764,1.764,0,1,1-2.882,2.035c-1.524-2.16-3.02-3.229-4.438-3.181-1.964.067-3.755,2.3-4.227,3.08A1.762,1.762,0,0,1,1461.39,729.019Z" transform="translate(-1459.628 -721.562)" fill="#633600"/>
+      </g>
+      <g id="Group_3311" data-name="Group 3311" transform="translate(23.647)">
+        <path id="Path_2023" data-name="Path 2023" d="M1528.426,729.019a1.764,1.764,0,0,1-1.505-2.68c.115-.189,2.86-4.627,7.121-4.773,2.687-.1,5.188,1.48,7.441,4.672a1.764,1.764,0,1,1-2.882,2.035c-1.524-2.16-3.016-3.229-4.438-3.181-1.963.067-3.755,2.3-4.227,3.08A1.763,1.763,0,0,1,1528.426,729.019Z" transform="translate(-1526.663 -721.562)" fill="#633600"/>
+      </g>
+    </g>
+    <g id="Group_3313" data-name="Group 3313" transform="translate(1441.259 706.357)">
+      <path id="Path_2024" data-name="Path 2024" d="M1490.885,781.564a19.725,19.725,0,0,1-5.138-.694,22.222,22.222,0,0,1-7.714-3.793,1.411,1.411,0,0,1,1.793-2.179c.43.352,10.677,8.53,21.577-.02a1.411,1.411,0,1,1,1.742,2.221A19.531,19.531,0,0,1,1490.885,781.564Z" transform="translate(-1477.52 -774.578)" fill="#633600"/>
+    </g>
+  </g>
+</svg>

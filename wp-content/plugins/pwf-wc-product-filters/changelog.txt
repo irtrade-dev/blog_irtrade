@@ -1,0 +1,24 @@
+== Changelog ==
+=1.1.3=
+Fixed: If WooCommerce doesn't exsit.
+=1.1.3=
+Fixed: admin functions related to anlytics
+Addes: A link to PRO on the setting page.
+=1.1.2=
+Fixed issues.
+=1.1.1=
+Enhancement code.
+=1.1.0=
+Change plugin name.
+=1.0.9=
+Fix DIVI page builder.
+= 1.0.8 =
+Update Readme text file.
+= 1.0.7 =
+Fix upload plugin errors.
+= 1.0.2 =
+Support any WordPress custom post type..
+= 1.0.1 =
+Update to Wordpress 5.8.
+= 1.0.0 =
+Plugin release.

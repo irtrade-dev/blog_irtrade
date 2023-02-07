@@ -1,0 +1,31 @@
+.pwf-settings-page .table.form-table th {
+	position: relative;
+    padding-right: 24px
+}
+.pwf-settings-page table.form-table th label {
+    position: relative;
+    display: block;
+}
+.pwf-settings-page table.form-table select {
+    width: 400px;
+    margin: 0;
+    box-sizing: border-box;
+    line-height: 32px;
+    vertical-align: top;
+}
+
+.pwf-settings-page table.form-table input[type=text],
+.pwf-settings-page table.form-table input[type=number] {
+	width: 400px;
+    margin: 0;
+    padding: 6px;
+    box-sizing: border-box;
+    vertical-align: top;
+
+	padding: 0 8px;
+	height: auto;
+}
+.pwf-buttons .button {
+	font-size: 14px;
+    padding: 0 16px;
+}

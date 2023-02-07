@@ -1,0 +1,21 @@
+[28/Dec/2022:15:09:06] (I): WordPress Instance Info:
+[28/Dec/2022:15:09:06] (I): Home URL : https://homologacao.irtrade.com.br/weblog
+[28/Dec/2022:15:09:06] (I): Site URL : https://homologacao.irtrade.com.br/weblog
+[28/Dec/2022:15:09:06] (I): WordPress Version : 5.9.1
+[28/Dec/2022:15:09:06] (I): Onboarding Version : 1.1.30
+[28/Dec/2022:15:09:06] (I): Multisite : No
+[28/Dec/2022:15:09:06] (I): Server Info : LiteSpeed
+[28/Dec/2022:15:09:06] (I): PHP Version : 7.4.30
+[28/Dec/2022:15:09:06] (I): HTTPS : Yes
+[28/Dec/2022:15:09:06] (I): PHP Max Execution Time : 300
+[28/Dec/2022:15:09:06] (I): PHP Max Input Vars : 5000
+[28/Dec/2022:15:09:06] (I): Max Upload Size : 268435456
+[28/Dec/2022:15:09:06] (I): Plugins:
+[28/Dec/2022:15:09:06] (I): [PLUGIN] Category Ajax Filter : v2.6.5 (Trusty Plugins)
+[28/Dec/2022:15:09:06] (I): [PLUGIN] Head, Footer and Post Injections : v3.2.5 (Stefano Lissa)
+[28/Dec/2022:15:09:06] (I): [PLUGIN] Loco Translate : v2.6.3 (Tim Whitlock)
+[28/Dec/2022:15:09:06] (I): [PLUGIN] Image optimization service by Optimole : v3.5.3 (Optimole)
+[28/Dec/2022:15:09:06] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.1.6 (ThemeIsle)
+[28/Dec/2022:15:09:06] (I): [PLUGIN] Templates Patterns Collection : v1.1.30 (ThemeIsle)
+[28/Dec/2022:15:09:06] (I): [PLUGIN] PostX - Gutenberg Post Grid Blocks : v2.8.3 (wpxpo)
+[28/Dec/2022:15:09:06] (I): [PLUGIN] Social Media and Share Icons (Ultimate Social Media) : v2.8.0 (UltimatelySocial)
