@@ -20,13 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'db_blog_irtrade' );
+define( 'DB_NAME', 'u555060246_blog_homologac' );
 
 /** Database username  */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'u555060246_blog_homologac' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'Irtrade@2011' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
